@@ -1,0 +1,6 @@
+signal_generator:
+  ros__parameters:
+    type: 2
+    amplitude: 0.25
+    offset: 0.0
+    frequency: 5.0 
